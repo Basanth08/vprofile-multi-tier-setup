@@ -1,6 +1,6 @@
 # vProfile Multi-Tier Setup
 
-Welcome to the **vProfile Multi-Tier Setup**! This is the first in a series of 18 hands-on DevOps projects designed to help you master real-world tools and workflows. Whether you're a beginner or brushing up your skills, this project will guide you through setting up a complete multi-tier web application stack on your own machine.
+Welcome to the **vProfile Multi-Tier Setup**! This project will guide you through setting up a complete multi-tier web application stack on your own machine.
 
 ---
 
