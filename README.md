@@ -277,7 +277,7 @@ This project includes a Jenkins pipeline (`Jenkinsfile`) that automates building
 
 ## 🎓 Next Steps
 
-This is **Project 1** of 18. Each project will build on this foundation, introducing new tools and DevOps practices. Push your progress to GitHub and use this as your learning portfolio!
+This is **Project 1** of 18 projects which iam going to do. Each project will build on this foundation, introducing new tools and DevOps practices.
 
 
 
